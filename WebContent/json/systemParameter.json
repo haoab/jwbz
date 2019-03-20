@@ -1,0 +1,8 @@
+{
+    "version": "v1.0.0",
+    "author": "QQ376664933",
+    "homePage": "index.jsp",
+    "server": "Tomcat8.5",
+    "dataBase": "MySQL5.5",
+    "maxUpload": "20M"
+}

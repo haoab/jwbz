@@ -1,0 +1,216 @@
+@CHARSET "UTF-8";
+.layui-bg-sblue {
+	background-color: #1C86EE !important
+}
+
+.layui-nav * {
+	font-size: 14px;
+	font-weight: bolder;
+}
+
+/*footer*/
+.footer {
+	background: #1C86EE;
+	padding: 25px 0;
+	overflow: hidden;
+	_height: 130px;
+	clear: both;
+}
+
+.footer_l {
+    width: 325px;
+	display: table-cell;
+	text-align: center;
+	border-right: 1px solid #fff;
+	
+
+}
+
+.footer_l p {
+	color: #fff;
+}
+
+.footer_l p b {
+	font-size: 20px;
+	color: #ffdf25;
+	line-height: 30px;
+}
+
+.footer_r {
+	    margin-left: 55px;
+	position: relative;
+	line-height: 26px;
+	color: #ffffff;
+	margin-top: 30px;
+}
+
+.police #footer .footer_r {
+	position: relative;
+	color: #ffffff;
+}
+
+.or {
+	margin: 0 auto;
+}
+
+.fl {
+	float: left;
+}
+
+.footer_r p {
+	color: #fff;
+}
+
+.footer_r img {
+	position: absolute;
+	right: 0;
+	bottom: 0;
+}
+
+.lbwz {
+	width: 100%;
+	height: 30px;
+	line-height: 30px;
+	text-align: left;
+	background-color: rgba(0, 0, 0, 0.2);
+	position: absolute;
+	z-index: 2;
+	left: 0px;
+	top: 2px;
+	font-size: 16px;
+	color: #ffffff;
+}
+
+.pad_right {
+	padding-right: 15px;
+}
+
+#scroll_div {
+	height: 37px;
+	line-height: 37px;
+	overflow: hidden;
+	text-align: center;
+	white-space: nowrap;
+	width: 1025px;
+}
+
+#scroll_begin, #scroll_end {
+	display: inline;
+	height: 37px;
+	line-height: 37px;
+	text-align: center;
+}
+
+.right_news {
+	font-size: 14px;
+	color: #3a87d3;
+	font-weight: bold;
+	line-height: 39px;
+	padding: 0 5px 0 8px;
+	float: left;
+	text-align: center;
+	height: 39px;
+}
+
+.main_body {
+	background-color: #f2f2f2
+}
+
+.layadmin-shortcut li {
+	text-align: center;
+}
+
+.layui-col-space10>* {
+	padding: 5px;
+}
+
+.layui-col-xs3 {
+	width: 25%;
+}
+
+.layadmin-shortcut li {
+	list-style: none;
+}
+
+.layadmin-shortcut li .layui-icon {
+	display: inline-block;
+	width: 100%;
+	height: 60px;
+	line-height: 60px;
+	text-align: center;
+	border-radius: 2px;
+	font-size: 30px;
+	background-color: #F8F8F8;
+	color: #333;
+	transition: all .3s;
+	-webkit-transition: all .3s;
+}
+
+.layadmin-shortcut li a:hover {
+	text-decoration: none;
+}
+
+.layadmin-shortcut li cite {
+	position: relative;
+	top: 2px;
+	display: block;
+	color: #666;
+	text-overflow: ellipsis;
+	overflow: hidden;
+	white-space: nowrap;
+	font-size: 14px;
+}
+
+.w-newList {
+	overflow: hidden;
+	padding: 4px 0;
+}
+
+.w-newList li {
+	
+	list-style: none;
+	height: 30px;
+	line-height: 30px;
+	font-size: 14px;
+	overflow: hidden;
+	padding-right: 54px;
+	position: relative;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+
+.w-newList li a {
+	margin-left: 15px;
+	color: #666;
+	text-decoration: none;
+	transition: all 0.2s ease-in-out;
+}
+
+.w-newList li a:hover {
+	color: #42baec;
+}
+
+.w-newList li span {
+	position: absolute;
+	right: 0;
+	top: 0;
+	color: #999;
+	margin-right: 5px;
+}
+.w-newList li .button2 {
+	
+	position: absolute;
+	right:55px;
+	top: 5px;
+	    color: #fff;
+	
+	
+}
+.w-newList li .button1 {
+	clear:both;
+	position: absolute;
+	right:125px;
+	top: 5px;
+	    color: #fff;
+	
+}
